@@ -1,6 +1,15 @@
-### Hi there 👋
+Hi, I am [Sebastian](https://sebastianhahner.de) 👋.
+I am [doctoral researcher at KIT, Karlsruhe](https://dsis.kastel.kit.edu/staff_sebastian_hahner.php) since 2020 and [web-video creator](https://skate702.de/) for more than a decade.
+For many years now, I develop open-source software. Much of this development is also streamed [live on twitch](https://skate702.tv).
+My personal projects are centered around minecraft modding and streaming utilities.
+I am also co-founder of [Code Overflow](https://codeoverflow.org) that develops the streaming utility [nodecg-io](https://nodecg.io).
+
+
 
 <!--
+
+### Hi there 👋
+
 **sebinside/sebinside** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
