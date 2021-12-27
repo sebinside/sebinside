@@ -14,4 +14,4 @@ I am also co-founder of [Code Overflow](https://codeoverflow.org) that develops 
 * [AHK2PremiereCEP](https://github.com/sebinside/AHK2PremiereCEP), a Adobe Premiere Pro Plugin that gives external control to native Premiere scripting capabilities
 * [HotkeylessAHK](https://github.com/sebinside/HotkeylessAHK), a utility tools that enables the execution of AutoHotkey code by sending HTTP requests, e.g., using a Stream Deck
 
-I usually develop in Java, Scala, and TypeScript using Visual Studio Code (monokai-themed) or IntelliJ IDEA ([custom](https://skate702.de/extra/rainbow.jar)-themed).
+**FAQ**: I usually develop in Java, Scala, and TypeScript using Visual Studio Code (monokai-themed) or IntelliJ IDEA ([custom](https://skate702.de/extra/rainbow.jar)-themed).
