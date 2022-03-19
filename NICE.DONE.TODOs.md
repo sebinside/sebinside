@@ -29,7 +29,7 @@ This file contains the next tasks for the [NICE.DONE.](https://github.com/sebins
 ## New projects
 * [ ] HotkeylessAHK Stream Deck Plugin
 * [ ] FONT Awesome Stream Deck Icon Generator
- * [ ] Finish prototype
- * [ ] Create new Vue 3 based implementation
- * [ ] Create a fancy actions based build pipeline
+  * [ ] Finish prototype
+  * [ ] Create new Vue 3 based implementation
+  * [ ] Create a fancy actions based build pipeline
 * [ ] Create a new way to spend channel points
