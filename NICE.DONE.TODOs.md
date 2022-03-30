@@ -3,6 +3,9 @@ This file contains the next tasks for the [NICE.DONE.](https://github.com/sebins
 
 ## Refactoring / Restructuring Tasks
 * [ ] Refactoring of my [AutoHotkey repository](https://github.com/sebinside/AutoHotkeyScripts) (move related functionality in separate files) and add minimal documentation
+    * [ ] New structure
+    * [ ] Side wheel scrolling not in minecraft
+    * [ ] README documentation
 * [ ] Rework [AHK2CEP](https://github.com/sebinside/AHK2PremiereCEP)
   * [ ] Rename repository to AHK2CEP - Premiere (or even another name without AHK?)
     * [ ] Update documentation
