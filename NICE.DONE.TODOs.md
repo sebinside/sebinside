@@ -8,13 +8,13 @@ This file contains the next tasks for the [NICE.DONE.](https://github.com/sebins
     * [x] Side wheel scrolling not in minecraft
     * [x] README documentation
 * [ ] Rework [AHK2CEP](https://github.com/sebinside/AHK2PremiereCEP)
+  * [ ] Play around with newer functionality and try to restructure
+  * [ ] Make the `rework` branch the new main branch
   * [ ] Rename repository to AHK2CEP - Premiere (or even another name without AHK?)
     * [ ] Update documentation
     * [ ] Change order of tasks
     * [ ] Update target folder (change to app data only)
     * [ ] Update CEP-Version
-  * [ ] Play around with newer functionality and try to restructure
-  * [ ] Make the `rework` branch the new main branch
 
 ## Premiere / After Effects Templates
 * [ ] Update Section MOGRT, add drag n drop image capability
