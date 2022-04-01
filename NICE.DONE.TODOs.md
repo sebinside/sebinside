@@ -2,11 +2,11 @@
 This file contains the next tasks for the [NICE.DONE.](https://github.com/sebinside/nice.done.) live stream on [Twitch](https://skate702.tv).
 
 ## Refactoring / Restructuring Tasks
-* [ ] Refactoring of my [AutoHotkey repository](https://github.com/sebinside/AutoHotkeyScripts) (move related functionality in separate files) and add minimal documentation
+* [x] Refactoring of my [AutoHotkey repository](https://github.com/sebinside/AutoHotkeyScripts) (move related functionality in separate files) and add minimal documentation
     * [x] New structure
     * [x] Move all functions to separate files and include them first
     * [x] Side wheel scrolling not in minecraft
-    * [ ] README documentation
+    * [x] README documentation
 * [ ] Rework [AHK2CEP](https://github.com/sebinside/AHK2PremiereCEP)
   * [ ] Rename repository to AHK2CEP - Premiere (or even another name without AHK?)
     * [ ] Update documentation
