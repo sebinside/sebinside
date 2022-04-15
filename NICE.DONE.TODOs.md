@@ -13,6 +13,7 @@ This file contains the next tasks for the [NICE.DONE.](https://github.com/sebins
     * [ ] Add internal data store (blackboard)
     * [ ] Add passing args
     * [ ] Add return values
+    * [ ] Fix or remove swagger functionality
   * [ ] Make the `rework` branch the new main branch
   * [ ] Rename repository to PremiereProRemote
     * [ ] Update documentation
