@@ -9,7 +9,7 @@ This file contains the next tasks for the [NICE.DONE.](https://github.com/sebins
     * [x] README documentation
 * [ ] Rework [AHK2CEP](https://github.com/sebinside/AHK2PremiereCEP)
   * [ ] Play around with newer functionality and try to restructure
-    * [ ] Multiple TS files and sub folders with custom build?
+    * [x] Multiple TS files and sub folders with custom build?
     * [ ] Add internal data store (blackboard)
     * [ ] Add passing args
     * [ ] Add return values
