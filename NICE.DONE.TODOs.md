@@ -40,6 +40,7 @@ This file contains the next tasks for the [NICE.DONE.](https://github.com/sebins
 
 ## New projects
 * [ ] HotkeylessAHK Stream Deck Plugin
+* [ ] Icons Wallpaper Generator
 * [ ] FONT Awesome Stream Deck Icon Generator
   * [ ] Finish prototype
   * [ ] Create new Vue 3 based implementation
