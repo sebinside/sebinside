@@ -22,6 +22,8 @@ This file contains the next tasks for the [NICE.DONE.](https://github.com/sebins
     * [ ] Update target folder (change to app data only)
     * [ ] Update CEP-Version
 
+## Interlude: Movable webcam (and new border, win 11 style)
+
 ## Premiere / After Effects Templates
 * [ ] Update Section MOGRT, add drag n drop image capability
 * [ ] Create outro MOGRT
