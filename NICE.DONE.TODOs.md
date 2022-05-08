@@ -1,7 +1,9 @@
 # NICE.DONE. TODOs
 This file contains the next tasks for the [NICE.DONE.](https://github.com/sebinside/nice.done.) live stream on [Twitch](https://skate702.tv).
 
-Highlights: nodecg-io, wallpaper-generator (+ coding), CEP (+ coding)
+## Coding Stream Overlay
+* [ ] Move content to config files
+* [ ] Add more content 
 
 ## Refactoring / Restructuring Tasks
 * [x] Refactoring of my [AutoHotkey repository](https://github.com/sebinside/AutoHotkeyScripts) (move related functionality in separate files) and add minimal documentation
@@ -23,8 +25,6 @@ Highlights: nodecg-io, wallpaper-generator (+ coding), CEP (+ coding)
     * [ ] Change order of tasks
     * [ ] Update target folder (change to app data only)
     * [ ] Update CEP-Version
-
-## Interlude: Movable webcam (and new border, win 11 style)
 
 ## Premiere / After Effects Templates
 * [ ] Update Section MOGRT, add drag n drop image capability
@@ -48,3 +48,4 @@ Highlights: nodecg-io, wallpaper-generator (+ coding), CEP (+ coding)
   * [ ] Create new Vue 3 based implementation
   * [ ] Create a fancy actions based build pipeline
 * [ ] Create a new way to spend channel points
+* [ ] Programmed mouse cursor to switch to full screen
