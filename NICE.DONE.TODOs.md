@@ -4,6 +4,7 @@ This file contains the next tasks for the [NICE.DONE.](https://github.com/sebins
 ## Coding Stream Overlay
 * [ ] Move content to config files
 * [ ] Add more content 
+* [ ] Add custom !wer und !wo commands (und !gh)
 
 ## Refactoring / Restructuring Tasks
 * [x] Refactoring of my [AutoHotkey repository](https://github.com/sebinside/AutoHotkeyScripts) (move related functionality in separate files) and add minimal documentation
