@@ -2,9 +2,8 @@
 This file contains the next tasks for the [NICE.DONE.](https://github.com/sebinside/nice.done.) live stream on [Twitch](https://skate702.tv).
 
 ## Coding Stream Overlay
-* [ ] Move content to config files
-* [ ] Add more content 
-* [ ] Add custom !wer und !wo commands (und !gh)
+* [ ] Finish stream-info TODOs
+* [ ] Remove font awesome from repo (in stream-bar)
 
 ## Refactoring / Restructuring Tasks
 * [x] Refactoring of my [AutoHotkey repository](https://github.com/sebinside/AutoHotkeyScripts) (move related functionality in separate files) and add minimal documentation
