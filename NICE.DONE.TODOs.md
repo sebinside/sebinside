@@ -1,6 +1,9 @@
 # NICE.DONE. TODOs
 This file contains the next tasks for the [NICE.DONE.](https://github.com/sebinside/nice.done.) live stream on [Twitch](https://skate702.tv).
 
+## TODO List
+* [ ] Write own todo list for coding streams... duh
+
 ## Coding Stream Overlay
 * [x] Finish stream-info TODOs
 * [x] Remove font awesome from repo (in stream-bar)
