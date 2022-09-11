@@ -45,7 +45,7 @@ This file contains the next tasks for the [NICE.DONE.](https://github.com/sebins
 
 ## New projects
 * [ ] stream-info !code zeigt die aktuelle Datei
-* [ ] HotkeylessAHK Stream Deck Plugin
+* [x] HotkeylessAHK Stream Deck Plugin
 * [ ] Icons Wallpaper Generator
 * [ ] FONT Awesome Stream Deck Icon Generator
   * [ ] Finish prototype
