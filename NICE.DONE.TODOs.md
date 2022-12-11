@@ -2,7 +2,7 @@
 This file contains the next tasks for the [NICE.DONE.](https://github.com/sebinside/nice.done.) live stream on [Twitch](https://skate702.tv).
 
 ## TODO List
-* [ ] Write own todo list for coding streams... duh
+* [x] Write own todo list for coding streams... duh
 
 ## Coding Stream Overlay
 * [x] Finish stream-info TODOs
@@ -14,20 +14,20 @@ This file contains the next tasks for the [NICE.DONE.](https://github.com/sebins
     * [x] Move all functions to separate files and include them first
     * [x] Side wheel scrolling not in minecraft
     * [x] README documentation
-* [ ] Rework [AHK2CEP](https://github.com/sebinside/AHK2PremiereCEP)
-  * [ ] Play around with newer functionality and try to restructure
+* [x] Rework [AHK2CEP](https://github.com/sebinside/AHK2PremiereCEP)
+  * [x] Play around with newer functionality and try to restructure
     * [x] Multiple TS files and sub folders with custom build?
-    * [ ] Add internal data store (blackboard)
-    * [ ] Add passing args
-    * [ ] Add return values
-    * [ ] Add better logging in the JS file
-    * [ ] Fix or remove swagger functionality
-  * [ ] Make the `rework` branch the new main branch
-  * [ ] Rename repository to PremiereProRemote
-    * [ ] Update documentation
-    * [ ] Change order of tasks
-    * [ ] Update target folder (change to app data only)
-    * [ ] Update CEP-Version
+    * [x] Add internal data store (blackboard)
+    * [x] Add passing args
+    * [x] Add return values
+    * [x] Add better logging in the JS file
+    * [x] Fix or remove swagger functionality
+  * [x] Make the `rework` branch the new main branch
+  * [x] Rename repository to PremiereProRemote
+    * [x] Update documentation
+    * [x] Change order of tasks
+    * [x] Update target folder (change to app data only)
+    * [x] Update CEP-Version
 
 ## Premiere / After Effects Templates
 * [ ] Update Section MOGRT, add drag n drop image capability
