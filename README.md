@@ -9,7 +9,7 @@ I am also co-founder of [Code Overflow](https://codeoverflow.org) that develops 
 
 ✅ [skates-bundles](https://github.com/sebinside/skates-bundles), a collection of my own NodeCG-bundles that I use in my twitch livestream
 
-✅ [AHK2PremiereCEP](https://github.com/sebinside/AHK2PremiereCEP), a Adobe Premiere Pro Plugin that gives external control to native Premiere scripting capabilities
+✅ [PremiereRemote](https://github.com/sebinside/PremiereRemote), customizable remote access to Adobe Premiere Pro CEP.
 
 🟡 [HotkeylessAHK](https://github.com/sebinside/HotkeylessAHK), a utility tools that enables the execution of AutoHotkey code by sending HTTP requests, e.g., using a Stream Deck
 
