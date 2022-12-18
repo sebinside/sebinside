@@ -38,6 +38,8 @@ This file contains the next tasks for the [NICE.DONE.](https://github.com/sebins
 * [ ] Replace all legacy text elements in the 2022 template
 * [ ] Create pasteable clips for all MOGRTs
 
+## Make Sub Badges create again!
+
 ## Workflow-related Tasks
 * [ ] Add kill scarlet mix control to the audio control scripts
 * [ ] Revive some of the buryed stream deck functions
