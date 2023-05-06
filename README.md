@@ -6,7 +6,7 @@ I usually develop in Java, Scala, and TypeScript using Visual Studio Code (monok
 
 #### Research Projects
 
-⚙️ [JPlag](https://github.com/jplag/JPlag) is the leading open-source code plagiarism finder, originally created in Java 1.0 (!). I co-lead the development and maintenance since 2020.
+⚙️ [JPlag](https://github.com/jplag/JPlag) is the leading open-source code plagiarism finder, used in universities all over the world, and originally created in Java 1.0 (!). I co-lead the development and maintenance since 2020.
 
 🔒 [Palladio Data Flow Analysis](https://github.com/PalladioSimulator/Palladio-Addons-DataFlowConfidentiality-Analysis) is a data flow-based confidentiality analysis using the Palladio software architecture modeling. I'm heading the development since 2022, the analysis has originally be designed by [Stephan Seifermann](https://scholar.google.de/citations?user=ViNvFxwAAAAJ).
 
