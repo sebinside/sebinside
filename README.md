@@ -1,18 +1,25 @@
 Hi, I am [Sebastian](https://sebastianhahner.de) 👋.
 I am [doctoral researcher at KIT, Karlsruhe](https://dsis.kastel.kit.edu/staff_sebastian_hahner.php) since 2020 and [web-video creator](https://skate702.de/) for more than a decade.
 For many years now, I develop open-source software. Much of this development is also streamed [live on twitch](https://702.yt/live).
-My personal projects are centered around Minecraft modding and streaming utilities.
-I am also co-founder of [Code Overflow](https://codeoverflow.org) that develops the streaming utility [nodecg-io](https://nodecg.io).
+On GitHub, you can find personal projects, live-developed streaming utilities and tools, and also all software we develop at the university.
+I usually develop in Java, Scala, and TypeScript using Visual Studio Code (monokai-themed) or IntelliJ IDEA ([custom](https://skate702.de/extra/rainbow.jar)-themed).
 
-#### Current projects (✅ = Under development, 🟡 = Maintainted)
-✅ [skates-bundles](https://github.com/sebinside/skates-bundles), a collection of my own NodeCG-bundles that I use in my twitch livestream
+#### Research Projects
 
-✅ [PremiereRemote](https://github.com/sebinside/PremiereRemote), customizable remote access to Adobe Premiere Pro CEP.
+⚙️ [JPlag](https://github.com/jplag/JPlag) is the leading open-source code plagiarism finder, originally created in Java 1.0 (!). I co-lead the development and maintenance since 2020.
 
-🟡 [nodecg-io](https://github.com/codeoverflow-org/nodecg-io), a NodeCG-bundle that enables the easy integration of social media APIs into stream automation
+🔒 [Palladio Data Flow Analysis](https://github.com/PalladioSimulator/Palladio-Addons-DataFlowConfidentiality-Analysis) is a data flow-based confidentiality analysis using the Palladio software architecture modeling. I'm heading the development since 2022, the analysis has originally be designed by [Stephan Seifermann](https://scholar.google.de/citations?user=ViNvFxwAAAAJ).
 
-🟡 [HotkeylessAHK](https://github.com/sebinside/HotkeylessAHK), a utility tools that enables the execution of AutoHotkey code by sending HTTP requests, e.g., using a Stream Deck
+❓ [ABUNAI](https://github.com/abunai-dev) extends architecture-based data flow analysis to measure the impact of uncertainty in a software system and its environment on confidentiality. This research approach is developed for my dissertation.
 
-🟡 [WissenschaftlichesSchreiben-Schnelleinstieg](https://github.com/sebinside/WissenschaftlichesSchreiben-Schnelleinstieg), a German quick start guide to scientific writing
+#### Personal Projects
 
-**FAQ**: I usually develop in Java, Scala, and TypeScript using Visual Studio Code (monokai-themed) or IntelliJ IDEA ([custom](https://skate702.de/extra/rainbow.jar)-themed).
+📁 [skates-bundles](https://github.com/sebinside/skates-bundles) contains a collection of my own [nodecg-io](https://github.com/codeoverflow-org/nodecg-io) bundles that I use in my twitch livestream.
+
+🎞️ [PremiereRemote](https://github.com/sebinside/PremiereRemote) provides customizable remote access to Adobe Premiere Pro CEP.
+
+🔨 [HotkeylessAHK](https://github.com/sebinside/HotkeylessAHK) enables the execution of AutoHotkey code by sending HTTP requests, e.g., using the companion Stream Deck plugin.
+
+📱 [StreamAwesome](https://github.com/sebinside/StreamAwesome) generates Stream Deck Icons using Font Awesome, currently in prototyping phase.
+
+✏️ [WissenschaftlichesSchreiben-Schnelleinstieg](https://github.com/sebinside/WissenschaftlichesSchreiben-Schnelleinstieg) is a German quick start guide to scientific writing that I use in teaching at the university.
