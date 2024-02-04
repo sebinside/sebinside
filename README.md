@@ -20,6 +20,6 @@ I usually develop in Java, Scala, and TypeScript using Visual Studio Code (monok
 
 🔨 [HotkeylessAHK](https://github.com/sebinside/HotkeylessAHK) enables the execution of AutoHotkey code by sending HTTP requests, e.g., using the companion Stream Deck plugin.
 
-📱 [StreamAwesome](https://github.com/sebinside/StreamAwesome) generates Stream Deck Icons using Font Awesome, currently in prototyping phase.
+📱 [StreamAwesome](https://github.com/sebinside/StreamAwesome) generates Stream Deck Icons using Font Awesome, available [online](https://skate702.de/StreamAwesome) for free!
 
 ✏️ [WissenschaftlichesSchreiben-Schnelleinstieg](https://github.com/sebinside/WissenschaftlichesSchreiben-Schnelleinstieg) is a German quick start guide to scientific writing that I use in teaching at the university.
