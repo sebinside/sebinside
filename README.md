@@ -24,6 +24,6 @@ I usually develop in Java, Scala, and TypeScript using Visual Studio Code (monok
 
 ✏️ [WissenschaftlichesSchreiben-Schnelleinstieg](https://github.com/sebinside/WissenschaftlichesSchreiben-Schnelleinstieg) is a German quick start guide to scientific writing that I use in teaching at the university.
 
-<img src="https://raw.githubusercontent.com/sebinside/StreamAwesome/main/streamawesome-logo.png" height=48 align=left><b>StreamAwesome</b><br>Description that is longer than one line and describes the software in simple words. I wonder what happens if this is too long...
+<p><img src="https://raw.githubusercontent.com/sebinside/StreamAwesome/main/streamawesome-logo.png" height=48 align=left><b>StreamAwesome</b><br>Description that is longer than one line and describes the software in simple words. I wonder what happens if this is too long...</p>
 
 Next.
