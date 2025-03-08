@@ -1,30 +1,27 @@
 Hi, I am [Sebastian](https://sebastianhahner.de) 👋.
-I am [doctoral researcher at KIT, Karlsruhe](https://dsis.kastel.kit.edu/staff_sebastian_hahner.php) since 2020 and [web-video creator](https://skate702.de/) for more than a decade.
-For many years now, I develop open-source software. Much of this development is also streamed [live on twitch](https://702.yt/live).
-On GitHub, you can find personal projects, live-developed streaming utilities and tools, and also all software we develop at the university.
-I usually develop in Java, Scala, and TypeScript using Visual Studio Code (monokai-themed) or IntelliJ IDEA ([custom](https://skate702.de/extra/rainbow.jar)-themed).
+I am a postdoctoral researcher at [KIT Karlsruhe](https://dsis.kastel.kit.edu/staff_sebastian_hahner.php). I’m a [web video creator](https://youtube.com/skate702) since 2010. 
+I studied computer science, I [stream live](https://twitch.tv/skate702) while coding, and I love playing around with new technologies.
+On GitHub, you can find personal projects, live-developed streaming utilities and tools, and also all the research software we develop in the university.
+My preferred languages are Java, Scala, C#, and TypeScript.
 
-#### Research Projects
+### Research Projects
 
-⚙️ [JPlag](https://github.com/jplag/JPlag) is the leading open-source code plagiarism finder, used in universities all over the world, and originally created in Java 1.0 (!). I co-lead the development and maintenance since 2020.
+<p><a href="https://github.com/jplag/JPlag"><img src="logos/jplag-logo.png" height=48 align=left></a><b>JPlag</b><br>
+World-leading open-source plagiarism detector to counter academic misconduct. I have led the development since 2020.</p>
 
-🔒 [Palladio Data Flow Analysis](https://github.com/PalladioSimulator/Palladio-Addons-DataFlowConfidentiality-Analysis) is a data flow-based confidentiality analysis using the Palladio software architecture modeling. I'm heading the development since 2022, the analysis has originally be designed by [Stephan Seifermann](https://scholar.google.de/citations?user=ViNvFxwAAAAJ).
+<p><a href="https://github.com/DataFlowAnalysis/DataFlowAnalysis"><img src="logos/dataflowanalysis-logo.png" height=48 align=left></a><b>Data Flow Analysis</b><br>
+Architecture-based confidentiality analysis framework for information security. I have led the development since 2022.</p>
 
-❓ [ABUNAI](https://github.com/abunai-dev) extends architecture-based data flow analysis to measure the impact of uncertainty in a software system and its environment on confidentiality. This research approach is developed for my dissertation.
+<p><a href="https://github.com/abunai-dev/ABUNAI"><img src="logos/abunai-logo.png" height=48 align=left></a><b>ABUNAI</b><br>
+Architecture-based and uncertainty-aware confidentiality analysis, the research tooling I've developed during my dissertation.</p>
 
-#### Personal Projects
+### Personal Projects
 
-📁 [skates-bundles](https://github.com/sebinside/skates-bundles) contains a collection of my own [nodecg-io](https://github.com/codeoverflow-org/nodecg-io) bundles that I use in my twitch livestream.
+<p><a href="https://github.com/sebinside/StreamAwesome"><img src="logos/streamawesome-logo.png" height=48 align=left></a><b>StreamAwesome</b><br>
+Simple yet versatile Elgato Stream Deck Icon Generator powered by Font Awesome, available <a href="https://skate702.de/StreamAwesome">online</a> for free!</p>
 
-🎞️ [PremiereRemote](https://github.com/sebinside/PremiereRemote) provides customizable remote access to Adobe Premiere Pro CEP.
+<p><a href="https://github.com/sebinside/HotkeylessAHK"><img src="logos/hotkeylessahk-logo.png" height=48 align=left></a><b>HotkeylessAHK</b><br>
+Enabling the execution of AutoHotkey without using hotkeys, thereby increasing both scalability and performance.</p>
 
-🔨 [HotkeylessAHK](https://github.com/sebinside/HotkeylessAHK) enables the execution of AutoHotkey code by sending HTTP requests, e.g., using the companion Stream Deck plugin.
-
-📱 [StreamAwesome](https://github.com/sebinside/StreamAwesome) generates Stream Deck Icons using Font Awesome, available [online](https://skate702.de/StreamAwesome) for free!
-
-✏️ [WissenschaftlichesSchreiben-Schnelleinstieg](https://github.com/sebinside/WissenschaftlichesSchreiben-Schnelleinstieg) is a German quick start guide to scientific writing that I use in teaching at the university.
-
-<!--<p><img src="https://raw.githubusercontent.com/sebinside/StreamAwesome/main/streamawesome-logo.png" height=48 align=left><b>StreamAwesome</b><br>Description that is longer than one line and describes the software in simple words. I wonder what happens if this is too long...</p>
-
-Next.
--->
+<p><a href="https://github.com/sebinside/PremiereRemote"><img src="logos/premiereremote-logo.png" height=48 align=left></a><b>PremiereRemote</b><br>
+Remote control Adobe Premiere Pro over the network, e.g., using external controller devices. Also see <a href="https://github.com/sebinside/PremiereClipboard">PremiereClipboard</a>.</p>
