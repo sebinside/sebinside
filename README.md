@@ -1,7 +1,7 @@
 Hi, I am [Sebastian](https://sebastianhahner.de) 👋.
 I am a postdoctoral researcher at [KIT Karlsruhe](https://dsis.kastel.kit.edu/staff_sebastian_hahner.php). I’m a [web video creator](https://youtube.com/skate702) since 2010. 
 I studied computer science, I [stream live](https://twitch.tv/skate702) while coding, and I love playing around with new technologies.
-On GitHub, you can find personal projects, live-developed streaming utilities and tools, and also all the research software we develop in the university.
+On GitHub, you can find personal projects, live-developed streaming utilities, and all the research software we develop at the university.
 My preferred languages are Java, Scala, C#, and TypeScript.
 
 ### Research Projects
