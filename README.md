@@ -23,10 +23,10 @@ Remote control Adobe Premiere Pro over the network, e.g., using external control
 
 ### Research Projects
 
-<p><a href="https://github.com/jplag/JPlag"><img src="logos/jplag-logo.png" height=48 align=left></a><b>JPlag</b><br>
+<p><a href="https://github.com/jplag/JPlag"><img src="logos/jplag-logo.png" height=48 align=left></a><b>JPlag Plagiarism Detector</b><br>
 World-leading open-source plagiarism detector, countering academic misconduct. I led the development from 2020-2025.</p>
 
-<p><a href="https://github.com/DataFlowAnalysis/DataFlowAnalysis"><img src="logos/dataflowanalysis-logo.png" height=48 align=left></a><b>Data Flow Analysis</b><br>
+<p><a href="https://github.com/DataFlowAnalysis/DataFlowAnalysis"><img src="logos/xdecaf-logo.png" height=48 align=left></a><b>xDECAF Data Flow Analysis</b><br>
 Architecture-based confidentiality analysis framework for information security. I led the development from 2022-2025.</p>
 
 <p><a href="https://github.com/abunai-dev/ABUNAI"><img src="logos/abunai-logo.png" height=48 align=left></a><b>ABUNAI</b><br>
