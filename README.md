@@ -16,18 +16,18 @@ Enabling the execution of AutoHotkey without using hotkeys, thereby increasing b
 Remote control Adobe Premiere Pro over the network, e.g., using external controller devices. Also see <a href="https://github.com/sebinside/PremiereClipboard">PremiereClipboard</a>.</p>
 
 <p><a href="https://github.com/sebinside/ASDF"><img src="logos/asdf-logo.png" height=48 align=left></a><b>ASDF</b><br>
-Upcoming: Advanced Stream Deck Features, short ASDF, showcasing the limits of Elgato Stream Decks!</p>
+*Upcoming*: Advanced Stream Deck Features, short ASDF, showcasing the limits of Elgato Stream Decks!</p>
 
 <p><a href="https://github.com/sebinside/ASDF"><img src="logos/stubits-logo.png" height=48 align=left></a><b>stubits</b><br>
-Simple to Use Broadcast Interaction Tiles from my own livestreams on Twitch - free for everyone.</p>
+*Upcoming*: Simple to Use Broadcast Interaction Tiles from my own livestreams on Twitch - free for everyone.</p>
 
 ### Research Projects
 
 <p><a href="https://github.com/jplag/JPlag"><img src="logos/jplag-logo.png" height=48 align=left></a><b>JPlag</b><br>
-World-leading open-source plagiarism detector, countering academic misconduct. I have led the development from 2020 to 2025.</p>
+World-leading open-source plagiarism detector, countering academic misconduct. I have led the development from 2020-2025.</p>
 
 <p><a href="https://github.com/DataFlowAnalysis/DataFlowAnalysis"><img src="logos/dataflowanalysis-logo.png" height=48 align=left></a><b>Data Flow Analysis</b><br>
-Architecture-based confidentiality analysis framework for information security. I have led the development from 2022 to 2025.</p>
+Architecture-based confidentiality analysis framework for information security. I have led the development from 2022-2025.</p>
 
 <p><a href="https://github.com/abunai-dev/ABUNAI"><img src="logos/abunai-logo.png" height=48 align=left></a><b>ABUNAI</b><br>
 Architecture-based and uncertainty-aware confidentiality analysis; the research tooling I've developed during my dissertation.</p>
