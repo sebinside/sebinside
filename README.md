@@ -16,7 +16,7 @@ Enabling the execution of AutoHotkey without using hotkeys, thereby increasing b
 Remote control Adobe Premiere Pro over the network, e.g., using external controller devices. Also see <a href="https://github.com/sebinside/PremiereClipboard">PremiereClipboard</a>.</p>
 
 <p><a href="https://github.com/sebinside/ASDF"><img src="logos/asdf-logo.png" height=48 align=left></a><b>ASDF</b><br>
-<i>Upcoming</i>: Advanced Stream Deck Features, short ASDF, showcasing the limits of Elgato Stream Decks!</p>
+<i>Upcoming</i>: Advanced Stream Deck Features - short ASDF - showcasing the limits of Elgato Stream Decks!</p>
 
 <p><a href="https://github.com/sebinside/ASDF"><img src="logos/stubits-logo.png" height=48 align=left></a><b>stubits</b><br>
 <i>Upcoming</i>: Simple to Use Broadcast Interaction Tiles from my own livestreams on Twitch - free for everyone.</p>
