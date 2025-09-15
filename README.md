@@ -1,5 +1,5 @@
 Hi, I am [Sebastian](https://sebastianhahner.de) 👋.
-I am a software engineer in the automotive industry, a former post-doctoral researcher from [KIT Karlsruhe](https://dsis.kastel.kit.edu/staff_sebastian_hahner.php), and a [web video creator](https://youtube.com/skate702) since 2010.
+I am a software engineer in the automotive industry, a former postdoctoral researcher from [KIT Karlsruhe](https://dsis.kastel.kit.edu/staff_sebastian_hahner.php), and a [web video creator](https://youtube.com/skate702) since 2010.
 I [studied computer science](https://podcasters.spotify.com/pod/show/skate702), I [stream live](https://twitch.tv/skate702) while coding, and I love playing around with new technologies and sharing [my passion for informatics](https://news.sebastianhahner.de/).
 On GitHub, you can find personal projects, live-developed streaming utilities, and all the research software I developed during my time at the university.
 My preferred languages are Java, Scala, C#, and TypeScript.
@@ -24,7 +24,7 @@ Simple to Use Broadcast Interaction Tiles from my own livestreams on Twitch - fr
 ### Research Projects
 
 <p><a href="https://github.com/jplag/JPlag"><img src="logos/jplag-logo.png" height=48 align=left></a><b>JPlag</b><br>
-World-leading open-source plagiarism detector to counter academic misconduct. I have led the development from 2020 to 2025.</p>
+World-leading open-source plagiarism detector, countering academic misconduct. I have led the development from 2020 to 2025.</p>
 
 <p><a href="https://github.com/DataFlowAnalysis/DataFlowAnalysis"><img src="logos/dataflowanalysis-logo.png" height=48 align=left></a><b>Data Flow Analysis</b><br>
 Architecture-based confidentiality analysis framework for information security. I have led the development from 2022 to 2025.</p>
