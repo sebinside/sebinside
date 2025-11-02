@@ -18,7 +18,7 @@ Remote control Adobe Premiere Pro over the network, e.g., using external control
 <p><a href="https://github.com/sebinside/ASDF"><img src="logos/asdf-logo.png" height=48 align=left></a><b>ASDF</b><br>
 <i>Upcoming</i>: Advanced Stream Deck Features - short ASDF - showcasing the endless possiblities of Elgato Stream Decks!</p>
 
-<p><a href="https://github.com/sebinside/ASDF"><img src="logos/stubits-logo.png" height=48 align=left></a><b>stubits</b><br>
+<p><a href="https://github.com/sebinside/stubits"><img src="logos/stubits-logo.png" height=48 align=left></a><b>stubits</b><br>
 <i>Upcoming</i>: Simple to Use Broadcast Interaction Tiles from my own livestreams on Twitch - free for everyone.</p>
 
 ### Research Projects
