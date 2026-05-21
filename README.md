@@ -24,8 +24,8 @@ Enabling the execution of AutoHotkey without using hotkeys, thereby increasing b
 <p><a href="https://github.com/jplag/JPlag"><img src="logos/jplag-logo.png" height=48 align=left></a><b>JPlag Plagiarism Detector</b><br>
 World-leading open-source plagiarism detector, countering academic misconduct. I led the development from 2020-2025.</p>
 
-<p><a href="https://github.com/DataFlowAnalysis/DataFlowAnalysis"><img src="logos/xdecaf-logo.png" height=48 align=left></a><b>xDECAF Data Flow Analysis</b><br>
+<p><a href="https://github.com/DataFlowAnalysis"><img src="logos/xdecaf-logo.png" height=48 align=left></a><b>xDECAF Data Flow Analysis</b><br>
 Architecture-based confidentiality analysis framework for information security. I led the development from 2022-2025.</p>
 
-<p><a href="https://github.com/abunai-dev/ABUNAI"><img src="logos/abunai-logo.png" height=48 align=left></a><b>ABUNAI</b><br>
+<p><a href="https://github.com/abunai-dev"><img src="logos/abunai-logo.png" height=48 align=left></a><b>ABUNAI</b><br>
 Architecture-based and uncertainty-aware confidentiality analysis; the research tooling I've developed during my dissertation.</p>
